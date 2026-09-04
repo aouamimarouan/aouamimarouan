@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aouami Marouan</h1>
 <h3 align="center">A Big Data & AI Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/](https://www.linkedin.com/in/marouan-aouami-654649349/)?username=aouamimarouan" alt="Aouami Marouan" /></a> </p>
-
 - 🌱 I’m currently learning **LLMs , Deep Learning , Data Engineering ...**
 
 - 👨‍💻 All of my projects are available at [https://aouamimarouan.engineer/](https://aouamimarouan.engineer/)
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aouami marouan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aouami marouan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marouan-aouami-654649349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aouami marouan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
