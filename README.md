@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aouami Marouan</h1>
 <h3 align="center">A Big Data & AI Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aouamimarouan" alt="aouamimarouan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aouamimarouan" alt="Aouami Marouan" /></a> </p>
 
 - 🌱 I’m currently learning **LLMs , Deep Learning , Data Engineering ...**
 
